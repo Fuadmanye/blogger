@@ -1,42 +1,36 @@
-# Blogger
+# {Application Name}
+BLOGGER
 
+## Author Name
+Fuad Manye
 ## Description
-Blogger is a blog app that allows people from around the world to write posts on anything they want to put out there.
 
-![landing](./app/static/images/landing.png)
-![blogs](./app/static/images/blogs.png)
+This is a web application where  a user get to sign up, view different posts from different people, comment on the posts, write and delete my posts. I'm also able to subscribe for an email notification once a new post is posted.
 
 
-## Live link
-Visit the application on https://fel-blogger.herokuapp.com/ .
+## Setup/Installation Requirements
+* Clone the repo to your computer.
 
-## Figma Design
-This is the link to my [figma](https://www.figma.com/file/vpdhNbdUaeCVObNkpgoh4w/Untitled?node-id=0%3A1) design.
-## Development
-To make advancements/modifications, follow these steps:
+* Open your terminal and navigate to the project directory.
 
-- Fork the repository
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
+* Run chmod a+x start.sh
+
+* Run ./start.sh
+
+* Follow navigation directions provided.
+
+
 
 ## Technologies Used
-Technologies used to develop this application:
-
-1. Python v3.8
-2. Flask 1.1.2
-3. Flask-Bootstrap
-4. HTML 
-5. CSS
-
+* Python 
+* Flask
+* Bootstrap
+* HTML
+* CSS 
 
 ## Support and contact details
+Email: fuad.manyi@student.moringaschool.com
+### License
+Copyright (c) 2022 [click here to view license](LICENSE)
 
-Should you be unable to access the website, have any recommendations and/or questions, feel free to email me:[felkiriinya@gmail.com](mailto:felkiriinya@gmail.com)
 
-## [License](https://github.com/felkiriinya/Personal-blog/blob/master/LICENSE)
-
-Copyright (c) 2020 [Felista Kiriinya](https://github.com/felkiriinya)
